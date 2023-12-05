@@ -1,0 +1,276 @@
+@media screen and (min-width: 400px) and (max-width: 500px) {
+  .nav-links {
+    display: none;
+  }
+  header {
+    background-image: url(/images/mobile/image-hero.jpg);
+    width: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+    padding: 10px;
+    height: 100lvh;
+  }
+  .nav-bar {
+    display: inline-flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    flex-direction: row;
+    width: 100%;
+  }
+  .nav-links {
+    display: none;
+  }
+  .hero-text {
+    width: 100%;
+    color: hsl(0, 0%, 100%);
+    margin-top: 324px;
+    border: 2px solid hsl(0, 0%, 100%);
+    padding: 10px;
+  }
+  h1 {
+    font-weight: 300;
+    font-size: 36px;
+  }
+  p {
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .one,
+  .two {
+    margin-top: 100px;
+  }
+  .image-area {
+    background-image: url(/images/mobile/image-interactive.jpg);
+    height: 450px;
+    -o-object-fit: cover;
+       object-fit: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+    padding: 10px;
+  }
+  .text-section {
+    margin-top: 100px;
+    text-align: center;
+  }
+  .text-section h1 {
+    margin-bottom: 24px;
+    font-size: 36px;
+  }
+  .text-section p {
+    color: hsl(0, 0%, 55%);
+    font-weight: 550;
+    letter-spacing: 5%;
+    line-height: 150%;
+  }
+  /********************************
+          OUR CREATIONS
+  *********************************/
+  .section-heading {
+    margin-bottom: 36px;
+  }
+  .two .container {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  .image-description-container {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    gap: 24px;
+  }
+  .image-desc {
+    width: 100%;
+    position: relative;
+    opacity: 1;
+  }
+  .overlay {
+    color: white;
+    font-size: 56px;
+    bottom: 5px;
+    left: 5px;
+    text-transform: uppercase;
+    text-align: left;
+    position: absolute;
+    width: 100px;
+    font-weight: 400;
+    opacity: 1;
+  }
+  .night-arcade {
+    background-image: url(/images/mobile/image-night-arcade.jpg);
+    width: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+    padding: 10px;
+    height: 240px;
+  }
+  button {
+    color: hsl(0, 0%, 0%);
+    font-size: 16px;
+    font-weight: 500;
+    background: none;
+    border: 2px solid hsl(0, 0%, 0%);
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 60px;
+    margin-top: 36px;
+    width: 192px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .deep-earth {
+    background-image: url(/images/mobile/image-deep-earth.jpg);
+    width: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+    padding: 10px;
+    height: 240px;
+  }
+  .soccer-teamvr {
+    background-image: url(/images/mobile/image-soccer-team.jpg);
+    width: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+    padding: 10px;
+    height: 240px;
+  }
+  .the-grid {
+    background-image: url(/images/mobile/image-grid.jpg);
+    width: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+    padding: 10px;
+    height: 240px;
+  }
+  .from-up {
+    background-image: url(/images/mobile/image-from-above.jpg);
+    width: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+    padding: 10px;
+    height: 240px;
+  }
+  .pocket-borealis {
+    background-image: url(/images/mobile/image-pocket-borealis.jpg);
+    width: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+    padding: 10px;
+    height: 240px;
+  }
+  .curiosity {
+    background-image: url(/images/mobile/image-curiosity.jpg);
+    width: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+    padding: 10px;
+    height: 240px;
+  }
+  .fish-eye {
+    background-image: url(/images/mobile/image-fisheye.jpg);
+    width: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+    padding: 10px;
+    height: 240px;
+  }
+  /*********************************
+              footer
+  *********************************/
+  footer {
+    background-color: hsl(0, 0%, 0%);
+  }
+  footer .container {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 0 auto;
+  }
+  footer #logo {
+    margin: 60px 0;
+  }
+  footer .nav-links {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 24px 0;
+  }
+  footer ul {
+    height: 240px;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  a {
+    text-decoration: none;
+    color: hsl(0, 0%, 100%);
+    font-size: 20px;
+    gap: 20px;
+  }
+  .copyright {
+    color: hsl(0, 0%, 100%);
+    font-size: 20px;
+    letter-spacing: 5%;
+    line-height: normal;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    justify-content: center;
+    margin: 36px 0;
+  }
+  .social-icons {
+    max-width: 100%;
+    justify-content: space-between;
+    display: inline-flex;
+    flex-direction: row;
+    text-align: center;
+    align-items: center;
+    gap: 24px;
+  }
+}/*# sourceMappingURL=xlphones.css.map */
