@@ -75,3 +75,4 @@ Responsiveness and toggle navigation menu for all device width and heights.
 ## Author
 
 - X - [@the_ngazz](https://www.twitter.com/@the_ngazz)
+- Instagram - [@the_ngazz](https://www.instagram.com/@the_ngazz)
